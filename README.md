@@ -7,3 +7,4 @@ This repository is created to practice the integration between Google Colab and 
 
 
 # Google Colab and GitHub Integration
+In this repository, I will submit my Data Science and Machine Learning–related assignments as part of my coursework. It includes Google Colab notebooks, code implementations, and supporting files used for analysis and model building. The repository also demonstrates version control, proper documentation, and an organized project structure. It serves as a centralized platform for tracking progress, revisions, and submissions. Overall, this repository reflects my learning and practical work in Data Science and Machine Learning.
